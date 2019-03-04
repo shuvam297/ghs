@@ -27,7 +27,7 @@ void q(int* arr,int start,int end){
 }
 
 /*
-this is newB branch*/
+this is newC branch*/
 int main(void){
     int t;
     scanf("%d",&t);
