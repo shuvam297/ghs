@@ -25,6 +25,9 @@ void q(int* arr,int start,int end){
         q(arr,p+1,end);
     }
 }
+
+/*
+haha the aminf unition*/
 int main(void){
     int t;
     scanf("%d",&t);
