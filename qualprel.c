@@ -27,7 +27,7 @@ void q(int* arr,int start,int end){
 }
 
 /*
-haha the aminf unition*/
+this is newB branch*/
 int main(void){
     int t;
     scanf("%d",&t);
